@@ -2,11 +2,15 @@
 
 Install all dependencies running:
 
-### `yarn install`
+```
+yarn install
+```
 
 Runs the app in the development mode.
 
-### `yarn start`
+```
+yarn start
+```
 
 # About
 
@@ -22,10 +26,14 @@ In this application is possible to:
 
 Some units testing were created. To run the entire suite:
 
-### `yarn jest`
+```
+yarn jest
+```
 
 # Lint
 
 It was set up the eslint to follow some quality guidelines, you can run it through:
 
-### `yarn lint`
+```
+yarn lint
+```
